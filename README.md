@@ -23,9 +23,9 @@
 ### Contact Information
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/luiza-samoilenko-5b7906233/">
-    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff0df6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/sosisya">
-    <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-ff0df6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
