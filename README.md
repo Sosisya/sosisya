@@ -20,6 +20,7 @@
 * Trello, Jira
 * Figma
 
+### Contact Information
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/luiza-samoilenko-5b7906233/">
     <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
