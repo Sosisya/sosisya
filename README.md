@@ -18,7 +18,7 @@
 * JSON, REST API
 * GitHub, GitLab, Fork, GitFlow
 * Trello, Jira
-* HIG
+* HIG  
 * Figma
 
 ### Contact Information
