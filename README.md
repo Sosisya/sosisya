@@ -11,7 +11,7 @@
 * MVC, MVVM, MVP
 * Cocoapods, SPM
 * CoreData, Realm, Firebase
-* MapKit, CoreLocation
+* CoreLocation
 * GCD, NSOperation
 * URLSession, Alamofire
 * Kingfisher, Lottie
