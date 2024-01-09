@@ -7,6 +7,7 @@
 
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
+* SwiftUI
 * Combine
 * MVC, MVVM, MVP
 * Cocoapods, SPM
