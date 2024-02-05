@@ -7,12 +7,11 @@
 
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
-* SwiftUI
-* Combine
-* MVC, MVVM, MVP
+* MVC, MVVM clean, MVP
 * Cocoapods, SPM
 * CoreData, Realm, Firebase
-* CoreLocation
+* SwiftUI
+* Combine
 * GCD, NSOperation
 * URLSession, Alamofire
 * Kingfisher, Lottie
