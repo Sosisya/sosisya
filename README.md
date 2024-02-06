@@ -2,7 +2,7 @@
 
 ### I aspire to grow and create engaging iOS applications.
 ### I have two projects on the App Store. 
-### You can view them by following the [link](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
+You can view them by following the [link](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
 ###
 
 ### My stack
