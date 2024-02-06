@@ -2,9 +2,8 @@
 
 ### I aspire to grow and create engaging iOS applications.
 ### I have two projects on the App Store. 
-### Tap to link and look my apps
+### You can take a look tapped on link
 ### [My APPS](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
-### [Take a look at the AppStore](https://apps.apple.com/ru/app/looksomefilm/id6477273806)
 
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
