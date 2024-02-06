@@ -3,7 +3,7 @@
 ### I aspire to grow and create engaging iOS applications.
 ### I have two projects on the App Store. 
 ### Tap to link and look my apps
-[My APPS]([https://apps.apple.com/ru/app/looksomefilm/id6477273806](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170))
+[My APPS](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
 
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
