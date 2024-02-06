@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=36&duration=2000&pause=1000&color=FF0EF6&background=FB78FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi!+I'm+Luiza+and+I'm+IOS+Developer.)](https://git.io/typing-svg)
 
 ### I aspire to grow and create engaging iOS applications.
-### I have a project on the App Store. You can take a look at it there (tap on image).
-[![MakeSomeFood](https://github.com/Sosisya/sosisya/assets/96905634/1a29bdbd-4768-4bab-9795-f18f9be51e48)](https://apps.apple.com/ru/app/makesomefood/id6449434835)
+### I have two projects on the App Store. 
+### You can take a look tap to link 
 
-[![img width="1200"][LookSomeFilm](https://github.com/Sosisya/sosisya/assets/96905634/70c39ff9-14df-47b0-9f02-c979b389c149)](https://apps.apple.com/ru/app/looksomefilm/id6477273806)
+
+[![MakeSomeFood]](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
 
 
 ### My stack
