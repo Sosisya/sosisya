@@ -4,7 +4,7 @@
 ### I have a project on the App Store. You can take a look at it there (tap on image).
 [![MakeSomeFood](https://github.com/Sosisya/sosisya/assets/96905634/1a29bdbd-4768-4bab-9795-f18f9be51e48)](https://apps.apple.com/ru/app/makesomefood/id6449434835)
 
-[![LookSomeFilm](https://github.com/Sosisya/sosisya/assets/96905634/70c39ff9-14df-47b0-9f02-c979b389c149)](https://apps.apple.com/ru/app/looksomefilm/id6477273806)
+[![img width="1200"][LookSomeFilm](https://github.com/Sosisya/sosisya/assets/96905634/70c39ff9-14df-47b0-9f02-c979b389c149)](https://apps.apple.com/ru/app/looksomefilm/id6477273806)
 
 
 ### My stack
