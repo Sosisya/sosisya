@@ -2,7 +2,8 @@
 
 ### I aspire to grow and create engaging iOS applications.
 ### I have a project on the App Store. You can take a look at it there (tap on image).
-[![My app MakeSomeFood in AppStore]](https://apps.apple.com/ru/app/makesomefood/id6449434835)
+[![MakeSomeFood](https://github.com/Sosisya/sosisya/assets/96905634/2b3979d9-95c7-472a-a002-b956152741c0)](https://apps.apple.com/ru/app/makesomefood/id6449434835)
+
 [![My app LookSomeFilm in AppStore]](https://apps.apple.com/ru/app/looksomefilm/id6477273806)
 
 ### My stack
