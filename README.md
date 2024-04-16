@@ -10,7 +10,7 @@
 * URLSession, Alamofire
 * Kingfisher
 * JSON, REST API
-* GitHub, GitLab, Fork, GitFlow
+* GitFlow, Fork 
 * Trello, Jira
 * HIG  
 * Figma
