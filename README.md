@@ -2,11 +2,6 @@
 
 ### I aspire to grow and create engaging iOS applications.
 
-I have two projects on the App Store. 
-
-You can view them by following the [link](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
-###
-
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, SnapKit)
 * MVC, MVVM clean, VIPER
@@ -21,6 +16,11 @@ You can view them by following the [link](https://apps.apple.com/ru/developer/lu
 * Trello, Jira
 * HIG  
 * Figma
+
+
+### My projects
+I have two projects on the App Store. 
+You can view them by following the [link](https://apps.apple.com/ru/developer/luiza-samoilenko/id1689051170)
 
 ### Contact Information
 <div id="badges" align="left">
