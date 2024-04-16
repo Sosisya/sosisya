@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=36&duration=2000&pause=1000&color=FF0EF6&background=FB78FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi!+I'm+Luiza+and+I'm+IOS+Developer.)](https://git.io/typing-svg)
 
-### I aspire to grow and create engaging iOS applications.
-
 ### My stack
 * UIKit (NSLayoutConstraint, Interface builder, SnapKit)
 * MVC, MVVM clean, VIPER
